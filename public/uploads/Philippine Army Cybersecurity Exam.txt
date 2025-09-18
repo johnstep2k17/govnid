@@ -1,0 +1,13 @@
+What is Cybersecurity.
+A. The practice of locking only your house doors and windows.
+B. The practice of protecting computers, phones, and networks from hackers, viruses, and scams.
+C. The practice of buying new gadgets for protection.
+D. The practice of using the internet only during the day.
+ANSWER: B 
+
+What are the components of the CIA Triad in Cybersecurity.
+A. Confidentiality, Integrity, Availability
+B. Communication, Integration, Authentication
+C. Control, Investigation, Assurance
+D. Confidentiality, Innovation, Access
+ANSWER: A 
